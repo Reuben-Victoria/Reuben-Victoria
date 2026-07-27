@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reuben-Victoria
-- 👀 I’m interested in Frontend Web development
-- 🌱 I’m currently learning Frontend frameworks
+- 👀 I’m an experienced Frontend Developer, interested in understanding how systems are connected to make Software work
+- 🌱 I’m currently learning Backend frameworks
 - 💞️ I’m looking to collaborate on Projects that can help me learn and grow faster
 - 📫 You can connect with me on Twitter - @ReubenVictoire and LinkedIn - Reuben Victoria. 
 
